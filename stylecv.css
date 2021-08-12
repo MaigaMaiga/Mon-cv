@@ -1,0 +1,10 @@
+body{
+	background-color: orange;
+}
+.flex{
+	display: flex;
+	justify-content: space-between;
+}
+#aziz{
+	height: 80px;
+}
